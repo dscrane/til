@@ -35,3 +35,4 @@
         - webkit browsers (chrome & safari) handle select differently than firefox and mobile devices treat select differently than desktops
 
 ]
+
