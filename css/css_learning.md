@@ -15,3 +15,13 @@
   going forward need to go back and get the same results using media queries 
     to avoid certain display issues
 ]
+
+4/27 [
+  learning about BEM (block, element, modifier)
+  a way of organizing projects into easily identifiable 
+    blocks: that are unique and can be understood outside of their situation
+    elements: which are part of blocks but need their parent block to be understood
+    modifiers: ways of identify the state of a block or an element or different display values
+  the way of defining the blocks, elements and modifiers is still very confusing at the moment. Need some more specific explanations and examples to understand the way they work together and flow as one
+  
+]
