@@ -19,3 +19,12 @@
     - added sematic html5 tags for better document outlining 
     - deployed the updated site to heroku
 ]
+
+4/27-5/3 [
+  worked on making a modal sign in form that appears when a button on the nav is clicked
+  also worked on implementing BEM into projects I already created
+    - added them to the full site I worked on and to the basic resume
+  messed around in the shell trying to make a script to shuffle all the music I have
+    - process started still a decent amount of work to go though
+  also made changes to the way I work with git to get a better understanding of the process of commits
+]
