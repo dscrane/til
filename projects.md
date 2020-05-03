@@ -22,6 +22,7 @@
 
 4/27-5/3 [
   worked on making a modal sign in form that appears when a button on the nav is clicked
+    - used flexbox to create the form and make it a responsive design
   also worked on implementing BEM into projects I already created
     - added them to the full site I worked on and to the basic resume
   messed around in the shell trying to make a script to shuffle all the music I have

@@ -25,3 +25,14 @@
   the way of defining the blocks, elements and modifiers is still very confusing at the moment. Need some more specific explanations and examples to understand the way they work together and flow as one
   
 ]
+
+4/29-5/1 [
+  learning flexbox
+  how to arrange a layout using flexbox
+  the importance of keeping track of the flex direction when using
+    justify-content/jusify-items & align-content/align-items
+  how to compile flexbox styles using Gulp to help with older browsers
+  what happens to a flex item when the flex propery is added and what 
+    flex-grow, flex-shrink and flex-basis mean in terms of changes to the window
+    
+]
