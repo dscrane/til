@@ -27,7 +27,26 @@
             return acc;
           }, 0);
         };
+]
 
+5/5 [
+  More ES2015 Fudementals!
+  let/const 
+  template literals
+  arrow functions
+  enhanced object literals
+  defualt arguments
+  rest/spread
+  destructuring
+  classes
 
+  the destructuring section was the most enlightening just because of the number of ways it can be used 
+    also how it can be nested with {props: [prop]} to get the first element of an array that is the prop of an object
+    also seeing how you can use destructing with arguments is a big help
+  
+  everything else was a welcome review and some better explaination of why things happen the way they do that i had before
+  now i need to find ways to implement these concepts to make sure I understand them correctly
 
+  getting back into JS has been really nice and a refreshing change of pace from pure HTML/CSS recently
+   
 ]

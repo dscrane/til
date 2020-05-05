@@ -28,3 +28,16 @@ Moved back to basics for more focus on each component above at the end of April
   html5
   css
 ]
+
+4/27 [
+  flexbox
+  forms
+  git
+  BEM conventions
+]
+
+5/4 [
+  ES2015 fundementals
+  JS intro/review
+  
+]
