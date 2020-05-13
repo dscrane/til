@@ -99,3 +99,10 @@
 
   This was a big day with alot of information to get my head around but it opens some interesting possiblities for uses for what came up! Overall very interesting day!!
 ]
+
+5/12 [
+  Working through some of the Wes Boss Javascript30 class. Worked on making a simple JS driven clock with transform/rotate
+    interesting to see the simple ways to annimate things with js
+  
+  also kept going through the Dan Abramov JustJavascript course. There was a lot of really interesting ideas and mental models in there that I still need some more time to get my head around but they really seem to be a good way of putting things together and understanding what is happening when we think about our code in JS. I am really curious to start putting some of it into practice when I make decisions about my code.
+]
