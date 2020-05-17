@@ -41,3 +41,11 @@ Moved back to basics for more focus on each component above at the end of April
   JS intro/review
   
 ]
+
+5/11 [
+  Simple JS quiz about Lord of the Rings
+    first with just a single display of questions
+    second with a slide show type movement between questions
+  Some of the Wes Boss JS30 course material
+
+]
