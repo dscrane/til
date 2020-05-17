@@ -106,3 +106,11 @@
   
   also kept going through the Dan Abramov JustJavascript course. There was a lot of really interesting ideas and mental models in there that I still need some more time to get my head around but they really seem to be a good way of putting things together and understanding what is happening when we think about our code in JS. I am really curious to start putting some of it into practice when I make decisions about my code.
 ]
+
+5/17 [
+  Still working through the Wes Boss class and just went through the dev tools section which was really interesing. Seeing all of the different ways to leverage the power of the console to display rich information in the console will be really helpful.
+    console.table() seems like a really nice thing to have as long as the data you want to display is uniform
+    styling a console.log("%c.....", "style") seems like a good way to make sure you can see the important information you want to see when you are debugging
+    console.time() is something I am going to start using to make sure the processing time can be as low as possible from the start rather than need to go back and work out the lag time
+    console.group() is also something I might use when I want to make sure the data I am iterating through is coming out correctly
+]

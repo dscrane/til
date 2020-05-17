@@ -29,3 +29,20 @@
     - process started still a decent amount of work to go though
   also made changes to the way I work with git to get a better understanding of the process of commits
 ]
+
+5/4-5/10 [
+  Messing around with fetch and the data returned from an API
+  Slow project week working through a lot of class material
+]
+
+5/11-5/17 [
+  Simple JS quiz about Lord of the Rings
+    first with just a single display of questions
+    second with a slide show type movement between questions
+  Some of the Wes Boss JS30 course material
+  Still messing around with a fetch and a simple card like display of the returned data
+]
+
+5/18-5/24 [
+
+]

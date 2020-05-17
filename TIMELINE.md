@@ -39,13 +39,13 @@ Moved back to basics for more focus on each component above at the end of April
 5/4 [
   ES2015 fundementals
   JS intro/review
-  
+    array helpers
+    promises
+    ES6 classes
+    Symbol.iterator
 ]
 
 5/11 [
-  Simple JS quiz about Lord of the Rings
-    first with just a single display of questions
-    second with a slide show type movement between questions
-  Some of the Wes Boss JS30 course material
-
+  Working through Javascript30 course on small JS projects/components
+  Dan Abramov JustJavascript class on the mental model for JS
 ]
