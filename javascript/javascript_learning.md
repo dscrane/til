@@ -114,3 +114,21 @@
     console.time() is something I am going to start using to make sure the processing time can be as low as possible from the start rather than need to go back and work out the lag time
     console.group() is also something I might use when I want to make sure the data I am iterating through is coming out correctly
 ]
+
+5/18 [
+  Looked at some introductions to testing and the idea of TTD and how that can save time and money in the long run if the testing suit is well set up
+    Automated testing is a great way to save some fear about merging updates and bug fixes because the changes can all be tested before the production build is changed
+    It can be tough to implement at the start, esspecially in the design of code that is easily tested as well as making the actual tests parameters to run
+    Interested to keep going there are still a lot of nuances that are going right over my head
+  
+  Promises
+    Another ground up explanation of promises but this time it was a little more helpful because it went over what the previous alternatives to async callbacks were and how the use of promises is a huge helpful addition to JS
+    The way .then() can be set up so that is takes advantage of the bubbling of promises so that all the .then()s can be success only and any and all errors can be caught in with the .catch() method
+    Another benefit to promises being that async handling can be ported and implemented in a variety of locations in the code with different handlers added at different points in the code
+    There are still some issues with promises because it is still tough to access the value of a promise globally and still hard to ensure that the code outside the promise chain will not run until the promis value returns --> this may be where async/await begins to steal the show
+
+  Journaling
+    Read an article about the power of journaling during the coding process for both a checklist of things that need to be done and a way to have some security in putting little things to the side without the fear of those being lost in the past if they are important
+    Found a nice command line journal that I am going to start trying to use from inside VSCode to see how I can do at keep tabs on progress and TODOs for a project 
+    Gotta give an update on this down the line to see if it is something I manage to do well
+]

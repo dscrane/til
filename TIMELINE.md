@@ -49,3 +49,9 @@ Moved back to basics for more focus on each component above at the end of April
   Working through Javascript30 course on small JS projects/components
   Dan Abramov JustJavascript class on the mental model for JS
 ]
+
+5/18 [
+  Intro to testing and TTD
+  More work with promises
+  
+]
