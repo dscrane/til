@@ -44,5 +44,6 @@
 ]
 
 5/18-5/24 [
-
+  working on another simple fetch card display for beer, trying to have the return based on either the IBU or ABV of the beer to practice some query params for the api call
+  
 ]
