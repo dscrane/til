@@ -56,3 +56,7 @@ Moved back to basics for more focus on each component above at the end of April
   
   Had a pretty tough week this week which was unfortunate but I don't think it will last. I think there was just a lot going on outside of learning that made things tough. Gotta get my head down next week and do better!
 ]
+
+5/25 [
+  
+]
