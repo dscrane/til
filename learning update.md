@@ -1,0 +1,17 @@
+Things that are working well:
+  -- the overall structure has been really helpful with having a weekly plan for what I should be working on and the goals for the week with the accountablity of someone "watching" and making sure I am keeping up with what I need to be doing 
+  -- the questions page has also been really helpful as a place to get things answered. The specific to you questions have also been really nice to have answered because there is so much out there and the things people use are hard to trust but knowing that it is something that has come up for you has made me pay attention more to the things I learn about certain things knowing that it will be worth while to know at somepoint
+  -- I think the quicker readings have been more helpful than the longer ones on the whole but having the longer readings as something to reference more and more down the line will end up being more helpful
+    [] The longer readings are just a little hard to put into a practicle context for me and finding the best way to process the information in the has been a little harder than the articles
+  -- All of the video classes have been super helpful --> I have been trying to take them a lot slower than I was before and taking as many notes on the concepts as possible and think that will end up being invaluable moving forward
+  -- The feedback on the projects I have done has also been a good gauge of where I am and mostly that I am progressing even if sometimes it might be hard to notice myself
+
+Some ideas for potential tweeks
+  -- maybe a "if you feel up to it" kind of thing thats more of a challenge for the content for the current week
+  -- I think it might help to have a very simple timeline outlines just to see where I have come from and what the upcoming goals are becuase it would help give me context for what is coming down the pipe line pretty soon
+  -- It might just be this week being a slightly more concept intensive and focused on the deeper learning but I am noticing that the practicle application side of things really helps the concepts stick more
+    [] I also know that to some extent I am at the mercy of what I understand and have come across so far so it could be difficult to work with something like promises in a practicle way when I havent touched the basics of API calls and OAuth
+    [] I think part of it comes down to me needing to lower my expectations of what I am able to accomplish at the moment but I think it also is partially down to feeling like I sometimes get a little more out of doing things hands on even if I don't fully understand everything I am doing as long as I understand the things I am really trying to hone in on --> and here again I can see the dangers of that because it can quickly lead to forming bad habbits for the things I don't understand well enough to do on my own
+    []
+  -- I think one thing I really struggle with is coming up with an idea that is both useful and managable and having more project ideas to kick around might be helpful as well
+    [] I keep say "oh I'll just make some really simple app to handle basic API responses" and then I get 20 min in and realize that it isn't going to be that simple and the work with promises or array methods that I am really trying to focus on quickly gets lost in the API confusion (kinda like what I mentioned before)

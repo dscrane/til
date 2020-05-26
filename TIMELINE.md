@@ -58,5 +58,7 @@ Moved back to basics for more focus on each component above at the end of April
 ]
 
 5/25 [
-  
+  More on testing
+  Beginning to work with APIs
+  Postman intro
 ]

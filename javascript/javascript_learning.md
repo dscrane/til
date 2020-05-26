@@ -132,3 +132,16 @@
     Found a nice command line journal that I am going to start trying to use from inside VSCode to see how I can do at keep tabs on progress and TODOs for a project 
     Gotta give an update on this down the line to see if it is something I manage to do well
 ]
+
+5/25 [
+  More work with promises and getting another view of how they work and their importance in JS
+  Also looked into the way the JS acutally handles its async functionality and "mutli thread" nature with web workers
+    How each thread works as an independently async process passing information back and forth through the queue
+    Also how concurrent proccessing differs from async proccessing happens when the two proccess interact with eachother
+  
+  APIs 
+    How they are prevasive through the internet and how much of the internet would be fundementally different without them
+    They can differ pretty widly in functionality and presentation and that within a code base anytime there is "coversation" between two sets of programs they are accessing the others
+      API
+
+]
