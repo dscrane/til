@@ -47,3 +47,9 @@
   working on another simple fetch card display for beer, trying to have the return based on either the IBU or ABV of the beer to practice some query params for the api call
   
 ]
+
+5/25-5/31 [
+  worked on the beginnings of an app that provides college data (first bigger project!!)
+  made some small testing projects following along with some tutorials which was helpful
+
+]

@@ -61,4 +61,7 @@ Moved back to basics for more focus on each component above at the end of April
   More on testing
   Beginning to work with APIs
   Postman intro
+  Began working on the first bigger project!
+
+  This was a much better week and I am really excited to dive futher into the new project next week!
 ]
