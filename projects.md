@@ -48,8 +48,12 @@
   
 ]
 
-5/25-5/31 [
+5/25-5/30 [
   worked on the beginnings of an app that provides college data (first bigger project!!)
   made some small testing projects following along with some tutorials which was helpful
 
+]
+
+6/1-6/7 [
+  reworking the plan for the website using a user story 
 ]

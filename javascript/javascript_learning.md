@@ -145,3 +145,8 @@
       API
 
 ]
+
+6/2 [
+  Had a great look at promises that fif a great job of explaining how they function and some good applications
+  
+]
